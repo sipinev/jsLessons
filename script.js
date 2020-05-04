@@ -6,7 +6,7 @@ message = "Пока интересно";
 
 var myNumber = 10.484; //"10.484" будет строкой
 var mySecondNumber = myNumber/182;
-var myString = "Яркий мир - отстой"; 
+var myString = "Stringggggggg"; 
 var myBoolean = true;
 //var myUndefined = undefind; //значения нет, переменная не инициализирована
 var myNull = null; //пустое значение
